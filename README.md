@@ -1,2 +1,2 @@
 # MachineLearningProjects
-Machine Learning with Python Projects | freeCodeCamp
+It consists of five challenging coding projects that build a good foundational knowledge of machine learning.
